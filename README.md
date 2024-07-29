@@ -1,6 +1,11 @@
 ## Hello there i'm Luis a Data Scientist
 
 
+![image](https://github.com/user-attachments/assets/3e54d16e-254e-48c6-ba21-1e3a3ce1bbef)
+
+
+
+### Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
   <img align="center" alt="Luis-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
