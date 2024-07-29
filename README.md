@@ -1,7 +1,5 @@
 ## Hello there i'm Luis a Data Scientist
-
-
-![image](https://github.com/user-attachments/assets/3e54d16e-254e-48c6-ba21-1e3a3ce1bbef)
+- Studying Forecats and Time Series
 
 
 
