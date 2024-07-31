@@ -6,9 +6,7 @@
 - Building Dashboards and making Analytics every day ✅
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/2QrM/giphy.gif" width="800" height="450" alt="GIF">
-</p>
+![Rocket GIF](https://media.giphy.com/media/4W5r73HSpK7Pq/giphy.gif)
 
 #
 
