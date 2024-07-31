@@ -2,15 +2,14 @@
 
 ##
 
-- Studying Forecats and Time Series 🤓
-- Building Dashboards and making Analytics every day ✅
-
 <h1><p align="center">Always working in something new. I'm love discovery things from news views 👨🏿‍💻</p></h1>
 
-## Coding.... 💻
+- Studying Forecats and Time Series 🤓
+- Building Dashboards and making Analytics every day ✅
+- Coding.... 💻
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp2757890.gif" width="auto" height="auto" alt="GIF">
+  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe8nwc3rt8qk7k701vjg8.gif" width="auto" height="auto" alt="GIF">
 </p>
 
 #
