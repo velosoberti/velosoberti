@@ -12,6 +12,8 @@
 
 #
 
+<p align="center">Always working in something new. I'm love discovery things from news views. <span>My best technology is Python,</span> but R and Power BI are another two tools that i rule</p>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true&theme=dracula"
