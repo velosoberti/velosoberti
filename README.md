@@ -1,6 +1,6 @@
 # Hello there 
 
-# I'm Luis a Data Scientist
+##
 
 - Studying Forecats and Time Series 🤓
 - Building Dashboards and making Analytics every day ✅
