@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://i.gifer.com/2QrM.mp4" alt="GIF">
+  <img src="https://media.giphy.com/media/2QrM/giphy.gif" width="800" height="450" alt="GIF">
 </p>
 
 #
