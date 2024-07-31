@@ -6,8 +6,7 @@
 - Building Dashboards and making Analytics every day ✅
 
 
-<iframe src="https://gifer.com/embed/2QrM" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-
+<div style="padding-top:75.000%;position:relative;"><img src="https://gifer.com/embed/2QrM" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></img></div><p><a href="https://gifer.com">via GIFER</a></p>
 # Technologies:
 
 <div style="display: inline_block"><br>
