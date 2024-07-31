@@ -6,7 +6,12 @@
 - Building Dashboards and making Analytics every day ✅
 
 
-<div position:relative><img src="https://gifer.com/embed/2QrM" width="100%" height="100%" ></img></div>
+<p align="center">
+  <img src="https://gifer.com/embedded/2QrM" width="800" height="450" alt="GIF">
+</p>
+
+#
+
 # Technologies:
 
 <div style="display: inline_block"><br>
