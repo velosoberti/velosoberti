@@ -3,12 +3,10 @@
 # I'm Luis a Data Scientist
 
 - Studying Forecats and Time Series 🤓
-- Building Dashboards every day ✅
-- 
-<div align="center">
-![rocket-3972_256](https://github.com/user-attachments/assets/ed245507-5405-4e27-a41d-993853d0c245)
-</div>
+- Building Dashboards and making Analytics every day ✅
 
+
+<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/2QrM" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 # Technologies:
 
