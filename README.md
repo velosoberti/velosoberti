@@ -6,7 +6,9 @@
 - Building Dashboards and making Analytics every day ✅
 
 
-[![Rocket GIF](https://media.giphy.com/media/4W5r73HSpK7Pq/giphy.gif)](https://wallpapercave.com/wp/wp2757890.gif)
+<p align="center">
+  <img src="https://wallpapercave.com/wp/wp2757890.gif" width="800" height="450" alt="GIF">
+</p>
 
 #
 
