@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp2757890.gif" width="800" height="450" alt="GIF">
+  <img src="https://wallpapercave.com/wp/wp2757890.gif" width="auto" height="auto" alt="GIF">
 </p>
 
 #
