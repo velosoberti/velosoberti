@@ -4,8 +4,10 @@
 
 - Studying Forecats and Time Series 🤓
 - Building Dashboards every day ✅
-
+- 
+<div align="center">
 ![rocket-3972_256](https://github.com/user-attachments/assets/ed245507-5405-4e27-a41d-993853d0c245)
+</div>
 
 
 # Technologies:
