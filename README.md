@@ -5,6 +5,9 @@
 - Studying Forecats and Time Series 🤓
 - Building Dashboards and making Analytics every day ✅
 
+<h1><p align="center">Always working in something new. I'm love discovery things from news views. <span>My best technology is Python,</span> but R and Power BI are another two tools that i rule.</p></h1>
+
+## Coding.... 💻
 
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp2757890.gif" width="auto" height="auto" alt="GIF">
@@ -12,7 +15,6 @@
 
 #
 
-<p align="center">Always working in something new. I'm love discovery things from news views. <span>My best technology is Python,</span> but R and Power BI are another two tools that i rule</p>
 
 <picture>
   <source
