@@ -12,8 +12,18 @@
 
 #
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=velosoberti&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velosoberti&hide_progress=true&theme=radical)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true" />
+</picture>
+
 
 
 
