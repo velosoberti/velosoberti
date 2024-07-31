@@ -5,7 +5,7 @@
 - Studying Forecats and Time Series 🤓
 - Building Dashboards and making Analytics every day ✅
 
-<h1><p align="center">Always working in something new. I'm love discovery things from news views. <span>My best technology is Python,</span> but R and Power BI are another two tools that i rule.</p></h1>
+<h1><p align="center">Always working in something new. I'm love discovery things from news views 👨🏿‍💻</p></h1>
 
 ## Coding.... 💻
 
@@ -29,9 +29,19 @@
 </picture>
 
 
-
-
 #
+
+- 🔭 I am currently working on Machine Learning and Data Analytics projects.
+
+- I bring my experience with Statistics and Machine Learning through mini-projects that aim to explore the complexity and variety of data in the world.
+
+- 🤓 Among my key skills, I highlight Excel, Python, R, Power BI (storytelling and related), and SQL.
+
+- ✅ I always strive to provide new and powerful insights, operating through the lens of business and root cause analysis.
+
+- Having worked in the data field for 3 years with various projects, I am starting my repository here. The idea of this repository is to showcase my skills.
+
+- 📘 Probability, Estimation, Hypothesis Testing, Regression, and Forecasting with Machine Learning will be some of the topics you'll find here today!
 
 
 # Technologies:
