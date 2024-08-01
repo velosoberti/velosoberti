@@ -1,4 +1,4 @@
-<h1><p align="center"># Hello there, Wellcome to my page</p></h1>
+<h1><p align="center">Hello there, Wellcome to my page 💭</p></h1>
 
 ##
 
@@ -15,7 +15,7 @@
 
 #
 
-
+<div align="center"
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true&theme=dracula"
@@ -27,7 +27,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true" />
 </picture>
-
+</div>
 
 #
 
