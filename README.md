@@ -15,7 +15,7 @@
 
 #
 
-<div align="center"
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true&theme=dracula"
