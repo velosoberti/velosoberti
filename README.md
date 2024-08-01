@@ -1,8 +1,6 @@
 <h1><p align="center">Hello there, Wellcome to my page 💭</p></h1>
 
-#
-
-<h1><p align="center">Always working in something new. I'm love discovery things from news views 👨🏿‍💻</p></h1>
+<h2><p align="center">Always working in something new. I'm love discovery things from news views 👨🏿‍💻</p></h2>
 
 - Studying Forecats and Time Series 🤓
 - Learning about Go!
