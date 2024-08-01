@@ -5,6 +5,7 @@
 <h1><p align="center">Always working in something new. I'm love discovery things from news views 👨🏿‍💻</p></h1>
 
 - Studying Forecats and Time Series 🤓
+- Learning about Go!
 - Building Dashboards and making Analytics every day ✅
 - Coding.... 💻
 
