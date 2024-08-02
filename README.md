@@ -17,7 +17,7 @@
 
 - 🔭 I am currently working on Machine Learning and Data Analytics projects.
 
-- I bring my experience with Statistics and Machine Learning through mini-projects that aim to explore the complexity and variety of data in the world.
+- 🔭 I bring my experience with Statistics and Machine Learning through mini-projects that aim to explore the complexity and variety of data in the world.
 
 - 🤓 Among my key skills, I highlight Excel, Python, R, Power BI (storytelling and related), and SQL.
 
