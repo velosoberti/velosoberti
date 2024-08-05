@@ -65,4 +65,6 @@
 </div>
 
 
-<div align="center"><img align="center" scr="https://profile-counter.glitch.me/velosoberti/count.svg"/> </div>
+<div align="center">
+  <img align="center" src="https://profile-counter.glitch.me/velosoberti/count.svg" />
+</div>
