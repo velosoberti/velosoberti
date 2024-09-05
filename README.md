@@ -8,14 +8,7 @@
 - Building Dashboards and making Analytics every day ✅
 - Coding.... 💻
 
-<p align="center">
-  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe8nwc3rt8qk7k701vjg8.gif" width="auto" height="auto" alt="GIF">
-</p>
-
-
-#
-
-- 🔭 I am currently working on Machine Learning and Data Analytics projects.
+- - 🔭 I am currently working on Machine Learning and Data Analytics projects.
 
 - 🔭 I bring my experience with Statistics and Machine Learning through mini-projects that aim to explore the complexity and variety of data in the world.
 
@@ -26,6 +19,13 @@
 - Having worked in the data field for 3 years with various projects, I am starting my repository here. The idea of this repository is to showcase my skills.
 
 - 📘 Probability, Estimation, Hypothesis Testing, Regression, and Forecasting with Machine Learning will be some of the topics you'll find here today!
+
+#
+
+<p align="center">
+  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe8nwc3rt8qk7k701vjg8.gif" width="auto" height="auto" alt="GIF">
+</p>
+
 
 #
 
