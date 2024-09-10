@@ -1,3 +1,5 @@
+<h1> # Luis - Data Scientist & Analyst </h1>
+
 <h1><p align="center">Hello there, Wellcome to my page 💭</p></h1>
 
 <div align="center">
@@ -18,20 +20,16 @@
 <h2><p align="center">Always working in something new. I'm love discovery things from news views 👨🏿‍💻</p></h2>
 
 - Today working as a BI Analytic 🧑🏻‍💼
-- Studying Forecats and Time Series 🤓
-- Learning about Databricks and TensorFlow
 - Building Dashboards and making Analytics every day ✅
 - Coding.... 💻
-
-- - 🔭 I am currently working on Machine Learning and Data Analytics projects.
-
+- 
 - 🔭 I bring my experience with Statistics and Machine Learning through mini-projects that aim to explore the complexity and variety of data in the world.
 
-- 🤓 Among my key skills, I highlight Excel, Python, R, Power BI (storytelling and related), and SQL.
+- 🤓 Among my key skills, I highlight Excel, Python, R, Power BI (storytelling and related), ML, and SQL.
 
 - ✅ I always strive to provide new and powerful insights, operating through the lens of business and root cause analysis.
 
-- Having worked in the data field for 3 years with various projects, I am starting my repository here. The idea of this repository is to showcase my skills.
+- 👨🏻‍💻 Having worked in the data field for 3 years with various projects, I am starting my repository here. The idea of this repository is to showcase my skills.
 
 - 📘 Probability, Estimation, Hypothesis Testing, Regression, and Forecasting with Machine Learning will be some of the topics you'll find here today!
 
@@ -47,24 +45,25 @@
 
 # Technologies:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luis-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-  <img align="center" alt="Luis-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Luis-Postgr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Luis-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img align="center" alt="Luis-R" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" title="RStudio"/>
+  <img align="center" alt="Luis-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
+  <img align="center" alt="Luis-Postgr" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+  <img align="center" alt="Luis-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="Azure SQL Database"/>
+  <img align="center" alt="Luis-Matplotlib" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib"/>
+  <img align="center" alt="Luis-Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" title="NumPy"/>
+  <img align="center" alt="Luis-Scikit-Learn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn"/>
+  <img align="center" alt="Luis-Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="Pandas"/>
 </div>
 
-  ##
- 
-<div> 
- <a href="https://velosoberti.github.io/luisveloso.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/velosoberti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Sobre Mim
 
+Sou um Analista e Cientista de Dados apaixonado por transformar dados em insights valiosos. Com experiência em ferramentas e tecnologias avançadas, estou sempre em busca de novas maneiras de aprimorar a análise de dados e otimizar processos. Abaixo estão algumas das principais tecnologias que utilizo em meu trabalho.
+
+---
+
+* 🌐 [Site](mailto:seu-email@example.com)
+* 🌐 [LinkedIn](www.linkedin.com/in/velosoberti)
 
 <div align="center">
   <img align="center" src="https://profile-counter.glitch.me/velosoberti/count.svg" />
