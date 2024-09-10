@@ -16,6 +16,8 @@
 </picture>
 </div>
 
+---
+
 ## About Me
 
 I am passionate about discovering new perspectives and solving complex problems with data. Currently, I am working as a BI Analyst, where I build dashboards and perform analytics daily. My focus is on delivering insightful and actionable data-driven solutions.
@@ -46,9 +48,6 @@ I am passionate about discovering new perspectives and solving complex problems 
 ---
 
 
-#
-
-
 ## Technologies:
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
@@ -62,9 +61,17 @@ I am passionate about discovering new perspectives and solving complex problems 
   <img align="center" alt="Luis-Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="Pandas"/>
 </div>
 
+---
+
 ## Contact Me
 
 <div> 
  <a href="https://velosoberti.github.io/luisveloso.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/velosoberti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+<p align="center">
+  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe8nwc3rt8qk7k701vjg8.gif" width="auto" height="auto" alt="GIF">
+</p>
+
