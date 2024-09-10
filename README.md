@@ -1,5 +1,15 @@
 <h1><p align="center">Hello there, Wellcome to my page 💭</p></h1>
 
+---
+
+## About Me
+
+I am passionate about discovering new perspectives and solving complex problems with data. Currently, I am working as a BI Analyst, where I build dashboards and perform analytics daily. My focus is on delivering insightful and actionable data-driven solutions.
+
+- 🧑🏻‍💼 **Current Role**: BI Analyst
+- ✅ **Daily Tasks**: Building Dashboards, Performing Analytics
+- 💻 **Passionate About**: Coding, Exploring Data, Machine Learning
+
 <div align="center">
 <picture>
   <source
@@ -13,16 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true" />
 </picture>
 </div>
-
----
-
-## About Me
-
-I am passionate about discovering new perspectives and solving complex problems with data. Currently, I am working as a BI Analyst, where I build dashboards and perform analytics daily. My focus is on delivering insightful and actionable data-driven solutions.
-
-- 🧑🏻‍💼 **Current Role**: BI Analyst
-- ✅ **Daily Tasks**: Building Dashboards, Performing Analytics
-- 💻 **Passionate About**: Coding, Exploring Data, Machine Learning
 
 ## Key Skills
 
