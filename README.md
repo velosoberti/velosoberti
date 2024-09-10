@@ -16,28 +16,38 @@
 </picture>
 </div>
 
-
-<h2><p align="center">Always working in something new. I'm love discovery things from news views 👨🏿‍💻</p></h2>
-
-- Today working as a BI Analytic 🧑🏻‍💼
-- Building Dashboards and making Analytics every day ✅
-- Coding.... 💻
-- 
-- 🔭 I bring my experience with Statistics and Machine Learning through mini-projects that aim to explore the complexity and variety of data in the world.
-
-- 🤓 Among my key skills, I highlight Excel, Python, R, Power BI (storytelling and related), ML, and SQL.
-
-- ✅ I always strive to provide new and powerful insights, operating through the lens of business and root cause analysis.
-
-- 👨🏻‍💻 Having worked in the data field for 3 years with various projects, I am starting my repository here. The idea of this repository is to showcase my skills.
-
-- 📘 Probability, Estimation, Hypothesis Testing, Regression, and Forecasting with Machine Learning will be some of the topics you'll find here today!
-
-#
-
 <p align="center">
   <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe8nwc3rt8qk7k701vjg8.gif" width="auto" height="auto" alt="GIF">
 </p>
+
+## About Me
+
+I am passionate about discovering new perspectives and solving complex problems with data. Currently, I am working as a BI Analyst, where I build dashboards and perform analytics daily. My focus is on delivering insightful and actionable data-driven solutions.
+
+- 🧑🏻‍💼 **Current Role**: BI Analyst
+- ✅ **Daily Tasks**: Building Dashboards, Performing Analytics
+- 💻 **Passionate About**: Coding, Exploring Data, Machine Learning
+
+## Key Skills
+
+- **Data Analysis & Visualization**: Excel, Power BI (storytelling and related)
+- **Programming**: Python, R
+- **Data Management**: SQL
+- **Machine Learning**: ML, Statistical Analysis
+
+## What I Do
+
+🔭 I leverage my expertise in Statistics and Machine Learning through various mini-projects aimed at exploring the complexity and diversity of data.
+
+🤓 **Specialties**: Probability, Estimation, Hypothesis Testing, Regression, Forecasting
+
+## My Goal
+
+✅ My objective is to continuously provide new and powerful insights by applying a business-oriented and root-cause analysis approach.
+
+👨🏻‍💻 With over 3 years of experience in the data field, this repository showcases my skills and projects. I aim to demonstrate my proficiency and knowledge through the projects available here.
+
+---
 
 
 #
@@ -62,9 +72,10 @@ Sou um Analista e Cientista de Dados apaixonado por transformar dados em insight
 
 ---
 
-* 🌐 [Site](mailto:seu-email@example.com)
-* 🌐 [LinkedIn](www.linkedin.com/in/velosoberti)
-
+<div> 
+ <a href="https://velosoberti.github.io/luisveloso.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/velosoberti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <div align="center">
   <img align="center" src="https://profile-counter.glitch.me/velosoberti/count.svg" />
 </div>
