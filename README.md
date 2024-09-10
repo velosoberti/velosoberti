@@ -1,5 +1,3 @@
-<h1> # Luis - Data Scientist & Analyst </h1>
-
 <h1><p align="center">Hello there, Wellcome to my page 💭</p></h1>
 
 <div align="center">
@@ -45,7 +43,6 @@ I am passionate about discovering new perspectives and solving complex problems 
 
 👨🏻‍💻 With over 3 years of experience in the data field, this repository showcases my skills and projects. I aim to demonstrate my proficiency and knowledge through the projects available here.
 
----
 
 
 ## Technologies:
@@ -61,9 +58,10 @@ I am passionate about discovering new perspectives and solving complex problems 
   <img align="center" alt="Luis-Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="Pandas"/>
 </div>
 
----
 
 ## Contact Me
+
+<h3><p align="center"> Luis - Data Scientist & Analyst </p></h3>
 
 <div> 
  <a href="https://velosoberti.github.io/luisveloso.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a> 
