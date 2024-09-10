@@ -1,5 +1,20 @@
 <h1><p align="center">Hello there, Wellcome to my page 💭</p></h1>
 
+<div align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true" />
+</picture>
+</div>
+
+
 <h2><p align="center">Always working in something new. I'm love discovery things from news views 👨🏿‍💻</p></h2>
 
 - Today working as a BI Analytic 🧑🏻‍💼
@@ -28,21 +43,6 @@
 
 
 #
-
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true" />
-</picture>
-</div>
-
 
 
 # Technologies:
