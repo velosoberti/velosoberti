@@ -26,6 +26,8 @@ I am passionate about discovering new perspectives and solving complex problems 
 </picture>
 </div>
 
+#
+
 ## Key Skills
 
 - **Data Analysis & Visualization**: Excel, Power BI (storytelling and related)
