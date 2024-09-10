@@ -10,6 +10,8 @@ I am passionate about discovering new perspectives and solving complex problems 
 - ✅ **Daily Tasks**: Building Dashboards, Performing Analytics
 - 💻 **Passionate About**: Coding, Exploring Data, Machine Learning
 
+#
+
 <div align="center">
 <picture>
   <source
