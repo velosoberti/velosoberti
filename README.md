@@ -1,5 +1,5 @@
 <h1><p align="center">Hello there, Wellcome to my page 💭</p></h1>
-<h3><p align="center"> Luis - Data Scientist & Analyst </p></h3>
+<p align="center"> Luis - Data Scientist & Analyst </p>
 
 ## About Me
 
