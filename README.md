@@ -1,8 +1,9 @@
 <h1><p align="center">Hello there, Wellcome to my page 💭</p></h1>
+<h3><p align="center"> Luis - Data Scientist & Analyst </p></h3>
 
 ## About Me
 
-I am passionate about discovering new perspectives and solving complex problems with data. Currently, I am working as a BI Analyst, where I build dashboards and perform analytics daily. My focus is on delivering insightful and actionable data-driven solutions.
+I am passionate about discovering new perspectives and solving complex problems with data. Currently, I am working as a BI Analyst, where I build dashboards and perform analytics daily. My focus is on delivering insightful and actionable data-driven solutions.</br>
 
 - 🧑🏻‍💼 **Current Role**: BI Analyst
 - ✅ **Daily Tasks**: Building Dashboards, Performing Analytics
@@ -65,8 +66,6 @@ I am passionate about discovering new perspectives and solving complex problems 
 
 
 ## Contact Me
-
-<h3><p align="center"> Luis - Data Scientist & Analyst </p></h3>
 
 <div> 
  <a href="https://velosoberti.github.io/luisveloso.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a> 
