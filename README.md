@@ -38,17 +38,15 @@ I am passionate about discovering new perspectives and solving complex problems 
 
 🔭 I leverage my expertise in Statistics and Machine Learning through various mini-projects aimed at exploring the complexity and diversity of data.
 
-🤓 **Specialties**: Probability, Estimation, Hypothesis Testing, Regression, Forecasting
+🔬 I also like to focus on the math behind models and tools to maximize efficiency and deliver powerful results.
+
+🤓 **Specialties**: Probability, Estimation, Hypothesis Testing, Regression, Forecasting, Machine Learning, Debugging Error
 
 ## My Goal
 
 ✅ My objective is to continuously provide new and powerful insights by applying a business-oriented and root-cause analysis approach.
 
 👨🏻‍💻 With over 3 years of experience in the data field, this repository showcases my skills and projects. I aim to demonstrate my proficiency and knowledge through the projects available here.
-
-<p align="center">
-  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe8nwc3rt8qk7k701vjg8.gif" width="auto" height="auto" alt="GIF">
-</p>
 
 
 ## Technologies:
