@@ -19,26 +19,22 @@ I am passionate about discovering new perspectives and solving complex problems 
     </a>
   </li>
   <li>
-    <a href="#study-of-ibovespa-stocks-in-brazil">
-      Study of Ibovespa Stocks in Brazil
+    <a href="https://github.com/velosoberti/DataScience_Guide">
+      This repository contains three study projects: one on inferential statistics and probability, one on machine learning with practical activities in supervised and unsupervised learning,           and a final project on forecasting. The purpose of this repository is to detail the main topics and tools used by a data scientist in Python.
     </a>
   </li>
   <li>
-    <a href="#superstore-sales-analysis">
-      Superstore Sales Analysis
+    <a href="https://github.com/velosoberti/Power-BI">
+       This repository contains some of the Power BI projects I have developed. Among them are projects on company performance results, advertisement analysis, sales portfolio analysis, and           digital marketing.
     </a>
   </li>
   <li>
-    <a href="#brazilian-agricultural-studies">
-      Brazilian Agricultural Studies
+    <a href="https://rpubs.com/luis_hveloso">
+      Here I present my projects developed in R Studio, mainly focused on using the tool for statistical and mathematical analyses. I highly recommend the projects in this link.
     </a>
   </li>
-  <li>
-    <a href="#study-on-real-estate-prices-in-são-paulo">
-      Study on Real Estate Prices in São Paulo. Where is it cheaper and why?
-    </a>
-  </li>
 </ol>
+</p>
 
 #
 
