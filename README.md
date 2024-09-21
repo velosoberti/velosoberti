@@ -3,13 +3,15 @@
 
 ## About Me
 
-I am passionate about discovering new perspectives and solving complex problems with data. Currently, I am working as a BI Analyst, where I build dashboards and perform analytics daily. My focus is on delivering insightful and actionable data-driven solutions.</br>
+I am passionate about discovering new perspectives and solving complex problems with data. Currently, I am working as a <span style="color: blue;">BI Analyst</span>, where I build <span style="color: blue;">dashboards</span> and perform <span style="color: blue;">analytics</span> daily. My focus is on delivering insightful and actionable <span style="color: blue;">data-driven solutions</span>.
 
-- 🧑🏻‍💼 **Current Role**: BI Analyst
-- ✅ **Daily Tasks**: Building Dashboards, Performing Analytics
-- 💻 **Passionate About**: Coding, Exploring Data, Machine Learning
+👨🏻‍💻 With over 3 years of experience in the data field, this repository showcases my skills and projects. I aim to demonstrate my proficiency and knowledge through the projects available here.
 
-<div align="center">
+- 🧑🏻‍💼 <span style="color: blue;">Current Role</span>: <span style="color: blue;">BI Analyst</span>
+- ✅ <span style="color: blue;">Daily Tasks</span>: <span style="color: blue;">Building Dashboards</span>, <span style="color: blue;">Performing Analytics</span>
+- 💻 <span style="color: blue;">Passionate About</span>: <span style="color: blue;">Coding</span>, <span style="color: blue;">Exploring Data</span>, <span style="color: blue;">Machine Learning</span>
+
+<div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true&theme=dracula"
@@ -73,10 +75,10 @@ I am passionate about discovering new perspectives and solving complex problems 
 
 ## Key Skills
 
-- **Data Analysis & Visualization**: Excel, Power BI (storytelling and related)
-- **Programming**: Python, R
-- **Data Management**: SQL
-- **Machine Learning**: ML, Statistical Analysis, Forecasting (Learning **Deep Learning***)
+- **Data Analysis & Visualization**: <span style="color: blue;">Excel</span>, <span style="color: blue;">Power BI</span> (storytelling and related)
+- **Programming**: <span style="color: blue;">Python</span>, <span style="color: blue;">R</span>
+- **Data Management**: <span style="color: blue;">SQL</span>
+- **Machine Learning**: <span style="color: blue;">ML</span>, <span style="color: blue;">Statistical Analysis</span>, <span style="color: blue;">Forecasting</span> (Learning <span style="color: blue;">Deep Learning</span>)
 
 ## What I Do
 
@@ -84,15 +86,7 @@ I am passionate about discovering new perspectives and solving complex problems 
 
 🔬 I also like to focus on the math behind models and tools to maximize efficiency and deliver powerful results.
 
-🤓 **Specialties**: Probability, Estimation, Hypothesis Testing, Regression, Forecasting, Machine Learning, Debugging Error
-
-## My Goal
-
-✅ My objective is to continuously provide new and powerful insights by applying a business-oriented and root-cause analysis approach.
-
-👨🏻‍💻 With over 3 years of experience in the data field, this repository showcases my skills and projects. I aim to demonstrate my proficiency and knowledge through the projects available here.
-
-
+🤓 **Specialties**: <span style="color: blue;">Probability</span>, <span style="color: blue;">Estimation</span>, <span style="color: blue;">Hypothesis Testing</span>, <span style="color: blue;">Regression</span>, <span style="color: blue;">Forecasting</span>, <span style="color: blue;">Machine Learning</span>, <span style="color: blue;">Debugging Error</span>
 ## Technologies:
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
