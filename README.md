@@ -26,50 +26,7 @@ I am passionate about discovering new perspectives and solving complex problems 
 
 ## Projects Summary
 
-<p align="center">
-  <ol>
-    <li>
-      <h4>
-        <a href="https://github.com/velosoberti/DataAnalytics/blob/main/README.md">
-          Projects on Diagnostic, Descriptive, and Predictive Data Analysis
-        </a>
-      </h4>
-      <p>
-        This repository contains projects focused on diagnostic, descriptive, and predictive data analysis. It includes projects related to the agricultural sector with descriptive analysis, the retail sector with diagnostic analysis, and the sales sector with churn analysis using random forest.
-      </p>
-    </li>
-    <li>
-      <h4>
-        <a href="https://github.com/velosoberti/DataScience_Guide">
-          Study Projects on Inferential Statistics and Machine Learning
-        </a>
-      </h4>
-      <p>
-        This repository contains three study projects: one on inferential statistics and probability, one on machine learning with practical activities in supervised and unsupervised learning, and a final project on forecasting. The purpose of this repository is to detail the main topics and tools used by a data scientist in Python.
-      </p>
-    </li>
-    <li>
-      <h4>
-        <a href="https://github.com/velosoberti/Power-BI">
-          Power BI Projects
-        </a>
-      </h4>
-      <p>
-        This repository contains some of the Power BI projects I have developed. Among them are projects on company performance results, advertisement analysis, sales portfolio analysis, and digital marketing.
-      </p>
-    </li>
-    <li>
-      <h4>
-        <a href="https://rpubs.com/luis_hveloso">
-          R Studio Projects
-        </a>
-      </h4>
-      <p>
-        Here I present my projects developed in R Studio, mainly focused on using the tool for statistical and mathematical analyses. I highly recommend the projects in this link.
-      </p>
-    </li>
-  </ol>
-</p>
+<p align="center"> <ol> <li> <h4> <a href="https://github.com/velosoberti/DataAnalytics/blob/main/README.md"> Projects on **Diagnostic**, **Descriptive**, and **Predictive** Data Analysis </a> </h4> <p> This repository contains projects focused on **diagnostic**, **descriptive**, and **predictive** data analysis. It includes projects related to the **agricultural sector** with descriptive analysis, the **retail sector** with diagnostic analysis, and the **sales sector** with **churn analysis** using **random forest**. </p> </li> <li> <h4> <a href="https://github.com/velosoberti/DataScience_Guide"> Study Projects on **Inferential Statistics** and **Machine Learning** </a> </h4> <p> This repository contains three study projects: one on **inferential statistics** and **probability**, one on **machine learning** with practical activities in **supervised** and **unsupervised learning**, and a final project on **forecasting**. The purpose of this repository is to detail the main topics and tools used by a **data scientist** in Python. </p> </li> <li> <h4> <a href="https://github.com/velosoberti/Power-BI"> **Power BI** Projects </a> </h4> <p> This repository contains some of the **Power BI** projects I have developed. Among them are projects on **company performance results**, **advertisement analysis**, **sales portfolio analysis**, and **digital marketing**. </p> </li> <li> <h4> <a href="https://rpubs.com/luis_hveloso"> **R Studio** Projects </a> </h4> <p> Here I present my projects developed in **R Studio**, mainly focused on using the tool for **statistical** and **mathematical analyses**. I highly recommend the projects in this link. </p> </li> </ol> </p>
 
 
 ## Key Skills
