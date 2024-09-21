@@ -1,4 +1,4 @@
-<h1><p align="center">Hello there, Wellcome I'm Luis a Data Scientist 💭</p></h1>
+<h2><p align="center">Hello there, Wellcome I'm Luis a Data Scientist 💭</p></h2>
 
 ## About Me
 
