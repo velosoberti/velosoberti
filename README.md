@@ -11,6 +11,37 @@ I am passionate about discovering new perspectives and solving complex problems 
 
 #
 
+<p align="center">
+<ol>
+  <li>
+    <a href=" https://github.com/velosoberti/DataAnalytics/blob/main/README.md">
+      This repository contains projects focused on diagnostic, descriptive, and predictive data analysis. It includes projects related to the agricultural sector with descriptive analysis, the         retail sector with diagnostic analysis, and the sales sector with churn analysis using random forest.
+    </a>
+  </li>
+  <li>
+    <a href="#study-of-ibovespa-stocks-in-brazil">
+      Study of Ibovespa Stocks in Brazil
+    </a>
+  </li>
+  <li>
+    <a href="#superstore-sales-analysis">
+      Superstore Sales Analysis
+    </a>
+  </li>
+  <li>
+    <a href="#brazilian-agricultural-studies">
+      Brazilian Agricultural Studies
+    </a>
+  </li>
+  <li>
+    <a href="#study-on-real-estate-prices-in-são-paulo">
+      Study on Real Estate Prices in São Paulo. Where is it cheaper and why?
+    </a>
+  </li>
+</ol>
+
+#
+
 <div align="center">
 <picture>
   <source
