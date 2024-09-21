@@ -101,16 +101,18 @@ I am passionate about discovering new perspectives and solving complex problems 
   <img align="center" alt="Luis-R" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" title="RStudio"/>
   <img align="center" alt="Luis-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
   <img align="center" alt="Luis-Postgr" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+  <img align="center" alt="Luis-SQLServer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server"/>
   <img align="center" alt="Luis-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="Azure SQL Database"/>
   <img align="center" alt="Luis-Matplotlib" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib"/>
   <img align="center" alt="Luis-Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" title="NumPy"/>
   <img align="center" alt="Luis-Scikit-Learn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn"/>
   <img align="center" alt="Luis-Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="Pandas"/>
   <img align="center" alt="Luis-GGPlot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" title="ggplot2"/>
-  <img align="center" alt="Luis-Statsmodels" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Statsmodels"/>
-  <img align="center" alt="Luis-Looker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/looker/looker-original.svg" title="Looker"/>
-  <img align="center" alt="Luis-PowerBI" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" title="Power BI"/>
-  <img align="center" alt="Luis-Excel" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftexcel/microsoftexcel-original.svg" title="Excel"/>
+  <img align="center" alt="Luis-TensorFlow" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/>
+  <img align="center" alt="Luis-Seaborn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" title="Seaborn"/>
+  <img align="center" alt="Luis-Statsmodels" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/statsmodels/statsmodels-original.svg" title="Statsmodels"/>
+  <img align="center" alt="Luis-XGBoost" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xgboost/xgboost-original.svg" title="XGBoost"/>
+  <img align="center" alt="Luis-LightGBM" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lightgbm/lightgbm-original.svg" title="LightGBM"/>
 </div>
 
 ## Contact Me
