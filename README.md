@@ -9,7 +9,7 @@ I am passionate about discovering new perspectives and solving complex problems 
 - ✅ **Daily Tasks**: Building Dashboards, Performing Analytics
 - 💻 **Passionate About**: Coding, Exploring Data, Machine Learning
 
-# Projects
+## Projects
 
 <p align="center">
   <ol>
@@ -57,7 +57,6 @@ I am passionate about discovering new perspectives and solving complex problems 
 </p>
 
 
-#
 
 <div align="center">
 <picture>
@@ -73,7 +72,6 @@ I am passionate about discovering new perspectives and solving complex problems 
 </picture>
 </div>
 
-#
 
 ## Key Skills
 
