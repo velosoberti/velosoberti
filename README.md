@@ -85,7 +85,7 @@ I am passionate about discovering new perspectives and solving complex problems 
 
 🔬 I also like to focus on the math behind models and tools to maximize efficiency and deliver powerful results.
 
-🤓 **Specialties**: **Probability**, **Estimation**, **Hypothesis Testing**, **Regression**, **Forecasting**, **Machine Learning**, **Debugging Error**
+🤓 Specialties: **Probability**, **Estimation**, **Hypothesis Testing**, **Regression**, **Forecasting**, **Machine Learning**, **Debugging Error**, **Math**
 
 
 ## Technologies:
