@@ -110,9 +110,6 @@ I am passionate about discovering new perspectives and solving complex problems 
   <img align="center" alt="Luis-GGPlot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" title="ggplot2"/>
   <img align="center" alt="Luis-TensorFlow" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/>
   <img align="center" alt="Luis-Seaborn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" title="Seaborn"/>
-  <img align="center" alt="Luis-Statsmodels" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/statsmodels/statsmodels-original.svg" title="Statsmodels"/>
-  <img align="center" alt="Luis-XGBoost" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xgboost/xgboost-original.svg" title="XGBoost"/>
-  <img align="center" alt="Luis-LightGBM" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lightgbm/lightgbm-original.svg" title="LightGBM"/>
 </div>
 
 ## Contact Me
