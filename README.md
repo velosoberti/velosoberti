@@ -9,7 +9,21 @@ I am passionate about discovering new perspectives and solving complex problems 
 - ✅ **Daily Tasks**: Building Dashboards, Performing Analytics
 - 💻 **Passionate About**: Coding, Exploring Data, Machine Learning
 
-## Projects
+<div align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true" />
+</picture>
+</div>
+
+## Projects Summary
 
 <p align="center">
   <ol>
@@ -57,22 +71,6 @@ I am passionate about discovering new perspectives and solving complex problems 
 </p>
 
 
-
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=velosoberti&show_icons=true" />
-</picture>
-</div>
-
-
 ## Key Skills
 
 - **Data Analysis & Visualization**: Excel, Power BI (storytelling and related)
@@ -98,7 +96,6 @@ I am passionate about discovering new perspectives and solving complex problems 
 ## Technologies:
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img align="center" alt="Luis-R" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" title="RStudio"/>
   <img align="center" alt="Luis-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
   <img align="center" alt="Luis-Postgr" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
   <img align="center" alt="Luis-SQLServer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server"/>
@@ -109,7 +106,6 @@ I am passionate about discovering new perspectives and solving complex problems 
   <img align="center" alt="Luis-Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="Pandas"/>
   <img align="center" alt="Luis-GGPlot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" title="ggplot2"/>
   <img align="center" alt="Luis-TensorFlow" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/>
-  <img align="center" alt="Luis-Seaborn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" title="Seaborn"/>
 </div>
 
 ## Contact Me
