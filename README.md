@@ -79,10 +79,10 @@ Complete **end-to-end ML infrastructure** for diabetes prediction
 
 | Project | Description |
 |---------|-------------|
-| **Data Analysis** | Diagnostic, descriptive & predictive analysis — retail, agriculture, sales churn with Random Forest |
-| **Statistics & ML Studies** | Inferential statistics, probability, supervised/unsupervised learning, forecasting |
-| **Power BI Dashboards** | Company performance, ad analysis, sales portfolio, digital marketing |
-| **R Projects** | Statistical modeling & mathematical analysis |
+| [**Data Analysis**](https://github.com/velosoberti/Projetos_de_analise_de_dados) | Diagnostic, descriptive & predictive analysis — retail, agriculture, sales churn with Random Forest |
+| [**Statistics & ML Studies**](https://github.com/velosoberti/Projetos_de_estudos) | Inferential statistics, probability, supervised/unsupervised learning, forecasting |
+| [**Power BI Dashboards**](https://github.com/velosoberti/Projetos_PowerBI) | Company performance, ad analysis, sales portfolio, digital marketing |
+| [**R Projects**](https://github.com/velosoberti/Projetos_R) | Statistical modeling & mathematical analysis |
 
 ---
 
