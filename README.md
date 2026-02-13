@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # Hi, I'm Luis Veloso 👋
 
 **Data Scientist** • BI Analyst • 3+ years turning data into decisions
@@ -15,19 +15,32 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### [MLOps Pipeline](https://github.com/velosoberti/MLOps)
-Complete **end-to-end ML infrastructure** for diabetes prediction
+
+Complete **end-to-end ML infrastructure** for diabetes prediction — focused on data versioning and orchestration
 
 `DVC` `Feast` `MLflow` `Airflow` `Flask` `Docker` `Streamlit`
 
-✅ Data versioning → Feature Store → Training → API Serving → Monitoring
+✅ Data versioning → Feature Store → Training → API Serving → EDA Dashboard
 
 </td>
-<td width="50%">
+<td width="33%">
+
+### [ML Dashboard](https://github.com/velosoberti/ML-dashboard)
+
+**Production-grade MLOps platform** — evolution of the MLOps Pipeline with CI/CD, drift detection, and a full web dashboard
+
+`ZenML` `Feast` `MLflow` `Airflow` `Flask` `Docker` `Pytest` `GitHub Actions`
+
+✅ One-command startup → Training pipelines → Drift analysis → Model registry → Prediction API
+
+</td>
+<td width="33%">
 
 ### [AI Audit System](https://github.com/velosoberti/ai_audit_project)
+
 **Hybrid RAG pipeline** for automated document compliance
 
 `Milvus` `BGE-M3` `LangChain` `Gemini` `Docker`
@@ -37,6 +50,8 @@ Complete **end-to-end ML infrastructure** for diabetes prediction
 </td>
 </tr>
 </table>
+
+> **MLOps Pipeline vs ML Dashboard:** The [MLOps Pipeline](https://github.com/velosoberti/MLOps) was the first iteration — it uses DVC for data versioning, Streamlit for EDA, and requires 5 terminals to start each service manually. The [ML Dashboard](https://github.com/velosoberti/ML-dashboard) is the evolution: it replaces DVC with ZenML for orchestration, adds a full vanilla JS dashboard with drift detection and analytics, includes CI with pytest + ruff, and runs everything with a single `./start.sh` command.
 
 ---
 
@@ -96,7 +111,7 @@ Machine Learning • Feature Engineering • MLOps • RAG Systems
 ---
 
 <div align="center">
-  
+
 **Open to collaborations on ML, data engineering, and analytics projects**
 
 ⭐ Feel free to explore my repositories and reach out!
